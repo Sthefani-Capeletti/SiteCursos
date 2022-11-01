@@ -811,7 +811,7 @@ tela grande */
         margin-top: 2rem;
     }
     /* About - Benefits */
-      .benefits-list{
+    .benefits-list{
         flex-direction: column;
         gap: 4rem;
     }
@@ -833,4 +833,5 @@ tela grande */
         flex-wrap: wrap;
         gap: 2rem;
     
+    }
 }
