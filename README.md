@@ -1,5 +1,6 @@
 # SiteCursos
-Site de Cursos (em inglês)
+Landing page de um site de cursos online (em inglês).
+Feito em HTML/CSS
 
 # Imagens Utilizadas
 
